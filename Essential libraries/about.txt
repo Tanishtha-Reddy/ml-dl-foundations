@@ -1,0 +1,6 @@
+This folder contains:
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
