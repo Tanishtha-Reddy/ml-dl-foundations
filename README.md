@@ -1,4 +1,4 @@
-# ML/DL Self-Study Repo
+# ML/DL Self-Study 
 
 This repo documents my self-study in Machine Learning and Deep Learning, combining **MIT 6.036 (Intro to ML)** and **MIT 6.S191 (Intro to Deep Learning)** with a supplementary syllabus I built myself to cover prerequisites those courses assume (core libraries, applied basics)
  
